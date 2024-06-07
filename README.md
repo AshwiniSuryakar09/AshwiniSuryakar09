@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Certification in Full Stack Data Science and AI
 - 💞️ I’m looking to collaborate in Data Science work
 - 📫 How to reach me ashusuryakar09@gmail.com
-- 😄 Pronouns: Call Me Ashu
+
 
 
 <!---
