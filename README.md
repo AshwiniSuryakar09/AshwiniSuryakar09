@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Data Science jobs
 - 🌱 I’m currently learning Certification in Full Stack Data Science and AI
 - 💞️ I’m looking to collaborate in Data Science work
-- 📫 How to reach me ashusuryakar09@gmail.com
+- 📫 How to reach me ashwinisuryakar09@gmail.com
 
 
 
