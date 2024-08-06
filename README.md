@@ -1,8 +1,9 @@
--  > ## Hi, I’m @AshwiniSuryakar09  
-- > ## 👀 I’m interested in Full Stack Data Science jobs 
-- > ## 🌱 I’m currently learning Certification in Full Stack Data Science and AI 
-- >## 💞️ I’m looking to collaborate in Data Science work 
-- > ## 📫 How to reach me ashwinisuryakar09@gmail.com
+-  > ## Hi, I’m @AshwiniSuryakar09
+   > ## 🌏 I’m based in Latur, Maharashtra, India
+- > ## 👀 I’m interested in Full Stack Data Science jobs
+- > ## 🌱 I’m currently learning Certification in Full Stack Data Science and AI
+  > > ## Ask me about Python, SQL, and Machine Learning
+ - > ## 📫 How to reach me ashwinisuryakar09@gmail.com
 
 
 
