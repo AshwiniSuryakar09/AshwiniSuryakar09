@@ -1,9 +1,11 @@
--  > ## Hi, I’m @AshwiniSuryakar09
-   > ## 🌏 I’m based in Latur, Maharashtra, India
+   
+- > ## Hi, I’m @AshwiniSuryakar09
+- > ## 🌏 I’m based in Latur, Maharashtra, India
 - > ## 👀 I’m interested in Full Stack Data Science jobs
-- > ## 🌱 I’m currently learning Certification in Full Stack Data Science and AI
-  > > ## Ask me about Python, SQL, and Machine Learning
- - > ## 📫 How to reach me ashwinisuryakar09@gmail.com
+- > ## 🌱 I’ve recently achieved Certification in Full Stack Data Science and AI From AlmaBetter
+- > ## 🌱 I am currently pursuing a certification in "The Complete SQL Bootcamp: Go from Zero to Hero" from Udemy.
+- > ## Ask me about Python, SQL, and Machine Learning
+- > ## 📫 How to reach me ashwinisuryakar09@gmail.com
 
 
 
