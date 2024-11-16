@@ -1,30 +1,27 @@
-Hi, I’m Ashwini Suryakar 👋
+<h1 align="center">Hi 👋, I'm Ashwini Suryakar</h1>
+<h3 align="center">An Aspiring Data Scientist</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBrdTR2Nzgyajk4bHZrNHVzbjQwa3FoMjdsZDV4YWxscnZ2NGlwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
 
- 🌍 Based in Pune, Maharashtra, India
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apaulgithub&label=Profile%20views&color=0e75b6&style=flat" alt="apaulgithub" /> </p>
 
- 📊 Currently a Data Analyst Intern at KultureHire
+- 🌏 I’m based in **Pune,Maharashtra, India**
 
- 💼 Former Data Analyst Intern at MedTourEasy
+- 🔭 I’m currently working as **Data Analyst Intern at CodeAlpha**
 
- 🔍 I'm passionate about:
-   * Full Stack Data Science
-   * Data Analysis
-   * Decision Support Analysis
-   * Business Data Analysis
+- 🌱 I’m currently learning **Data Analytics** and **SQL Bootcamp**
 
- 🎓 Certifications:
-   * Full Stack Data Science and AI from AlmaBetter
-   * Google Professional Data Analytics from Coursera (with guidance from MedTourEasy)
-   * Currently pursuing The Complete SQL Bootcamp: Go from Zero to Hero on Udemy
-  
-💬 Ask me about:
-  * Python 🐍
-  * SQL
-  * Excel 📊
+- 💬 Ask me about **Python, SQL, Excel**
 
-  
- 📧 Reach out to me: ashwinisuryakar09@gmail.com
+- 📫 How to reach me **ashusuryakar09@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ashwini-suryakar-b4b68523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-paul-ds" height="30" width="40" /></a>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 
 <!---
