@@ -6,7 +6,7 @@
 
 - 🌏 I’m based in **Pune,Maharashtra, India**
 
-- 🔭 I’m currently working as **Data Analyst Intern at CodeAlpha**
+- 🔭 I’m currently working as **Data Analyst Intern at KultureHire**
 
 - 🌱 I’m currently learning **Data Analytics** and **SQL Bootcamp**
 
