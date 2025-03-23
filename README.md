@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apaulgithub&label=Profile%20views&color=0e75b6&style=flat" alt="apaulgithub" /> </p>
 
-- 🌏 I’m based in **Pune, Maharashtra, India**
+- 🌏 I’m based in **Maharashtra, India**
 
 - 🔭 I’m currently working as **Data Analyst Intern at KultureHire**
 
-- 🌱 I recently completed **Data Analytics** and **SQL Complete Bootcamp** courses on Udemy..
+- 🌱 I recently completed **Data Analytics** and **Looker & LookML certifications** courses on Udemy..
 
-- 💬 Ask me about **Python, SQL, Excel**
+- 💬 Ask me about **Python, SQL, Excel,PowerBI,GoogleLookerStudio**
 
 - 📫 How to reach me **ashusuryakar09@gmail.com**
 
