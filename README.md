@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=ashwinigithub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </div>
 <div style="flex: 1; min-width: 300px;">
-   
+   <h2>Hello, I'm Ashwini Suryakar 👋</h2>
     <p>
       I'm a passionate <strong>Data Analyst</strong> with a knack for transforming raw data into actionable insights.
       Skilled in <strong>Python, SQL, Excel, Power BI, and Looker Studio</strong>, I thrive on turning data into decisions.
