@@ -1,30 +1,47 @@
 <h1 align="center">Hi 👋, I'M ASHWINI</h1>
 <h3 align="center">A Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/UMGC-ee2Ti0uitLlY5SdqVx">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apaulgithub&label=Profile%20views&color=0e75b6&style=flat" alt="apaulgithub" /> </p>
+<!-- MAIN FLEX CONTAINER -->
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-- 🌏 I’m based in **Kerala, India**
+  <!-- LEFT SIDE: IMAGE -->
+  <div style="min-width: 300px; margin-right: 40px;">
+    <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300" alt="Ashwini Coding GIF" />
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=ashwinigithub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </div>
 
-- 🔭 I’m currently working as **Data Analyst at Vista Driveline Motors Pvt Ltd**
-
-- 🌱 I had completed **Data Analytics** and **Looker & LookML certifications** courses on Udemy..
-
-- 💬 Ask me about **Python, SQL, Excel,PowerBI,GoogleLookerStudio**
-
-- 📫 How to reach me **ashwinisuryakar09@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ashwini-suryakar-b4b68523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-paul-ds" height="30" width="40" /></a>
-
-</p>
-
+  <!-- RIGHT SIDE: INTRO + DETAILS -->
+  <div style="flex: 1; min-width: 300px;">
+    <h2>Hello, I'm Ashwini 👋</h2>
+    <p>
+      I'm a passionate <strong>Data Analyst</strong> with a knack for transforming raw data into actionable insights.
+      Skilled in <strong>Python, SQL, Excel, Power BI, and Looker Studio</strong>, I thrive on turning data into decisions.
+    </p>
+    <p>
+      Currently working at <strong>Vista Driveline Motors Pvt Ltd</strong>, where I help drive performance with data.
+    </p>
+    <ul>
+      <li>🌏 Based in <strong>Kerala, India</strong></li>
+      <li>🌱 Completed certifications in <strong>Data Analytics, Looker & LookML</strong> on Udemy</li>
+      <li>💬 Ask me about <strong>Python, SQL, Excel, Power BI, Google Looker Studio</strong></li>
+      <li>📫 Reach me: <strong>ashwinisuryakar09@gmail.com</strong></li>
+    </ul>
+  </div>
+</div>
+<br/>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
-<!---
-AshwiniSuryakar09/AshwiniSuryakar09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+</p>
