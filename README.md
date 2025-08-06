@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Data Analyst at Vista Driveline Motors Pvt Ltd**
 
-- 🌱 I recently completed **Data Analytics** and **Looker & LookML certifications** courses on Udemy..
+- 🌱 I had completed **Data Analytics** and **Looker & LookML certifications** courses on Udemy..
 
 - 💬 Ask me about **Python, SQL, Excel,PowerBI,GoogleLookerStudio**
 
