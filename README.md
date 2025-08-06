@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'M ASHWINI</h1>
 <h3 align="center">A Data Analyst</h3>
 
-<!-- MAIN FLEX CONTAINER -->
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-<!-- LEFT SIDE: IMAGE -->
   <div style="min-width: 300px; margin-right: 40px;">
     <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300" alt="Ashwini Coding GIF" />
     <br><br>
     <img src="https://komarev.com/ghpvc/?username=ashwinigithub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </div>
-  <div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 300px;">
     <h2>Hello, I'm Ashwini 👋</h2>
     <p>
       I'm a passionate <strong>Data Analyst</strong> with a knack for transforming raw data into actionable insights.
